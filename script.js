@@ -1,5 +1,5 @@
 const SUPABASE_URL       = "https://tjoxfstshsakaqaksjyw.supabase.co"; 
-const SUPABASE_ANON_KEY  = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRqb3hmc3RzaHNha2FxYWtzanl3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODU1OTc4ODgsImV4cCI6MjEwMTE3Mzg4OH0.z3O1Nt_VsXX5DR1HfTdj8_dhfCQsrLt_6MYYjmoSTEo";               // <-- change me
+const SUPABASE_ANON_KEY  = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRqb3hmc3RzaHNha2FxYWtzanl3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODU1OTc4ODgsImV4cCI6MjEwMTE3Mzg4OH0.z3O1Nt_VsXX5DR1HfTdj8_dhfCQsrLt_6MYYjmoSTEo";  
 const DB_SCHEMA          = "sales_dashboard"; 
 
 
